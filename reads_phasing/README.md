@@ -6,8 +6,8 @@
 Usage:
   separating_reads_by_haplotype.binarySearch.pl <bam> <phased hap file> <output prefix>
 ```
-Test hap file is named as "lg1.10Mb.hap.txt", test bam file can be downlowded from 10.6084/m9.figshare.28609913
-Notice: hap file is obtained by PollenSeq:
+Test hap file is named as "lg1.10Mb.hap.txt", test bam file can be downlowded from 10.6084/m9.figshare.28609913  
+Notice: hap file is obtained by PollenSeq:  
 Zhang, W., Tariq, A., Jia, X. et al. Plant sperm cell sequencing for genome phasing and determination of meiotic crossover points. Nat Protoc 20, 690–708 (2025). https://doi.org/10.1038/s41596-024-01063-2
 ## Format of input file
 Example of hap file:
