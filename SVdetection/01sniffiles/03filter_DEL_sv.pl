@@ -2,12 +2,10 @@
 
 use strict;
 
-my ($paf,$vcf) = @ARGV[0,1];
-my $Usage = "\n\t$0 <paf> <vcf>
+my ($paf,$vcf,$synfile) = @ARGV[0,1,2];
+my $Usage = "\n\t$0 <paf> <vcf> <syri.out>
 \n";
 die $Usage unless (@ARGV == 2);
-
-my $synfile = "syri.filtered.out";
 
 # read syn region #
 my ($syn_pos,$syn);
