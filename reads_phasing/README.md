@@ -27,4 +27,5 @@ lg1	534133	A	T
 lg1	534364	T	C
 lg1	534802	C	G
 ```
-The 1st col is chromosome id, 2nd is position, 3rd is hap1, 4th is hap2
+The 1st col is chromosome id, 2nd is position, 3rd is hap1, 4th is hap2  
+The phased FASTQ files generated can be utilized to produce haplotype-specific k-mers using yak, which can then be used for haplotype genome assembly in the trio-binning mode of hifiasm.
