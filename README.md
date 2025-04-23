@@ -1,12 +1,13 @@
 # FDhaplotype
 This repository contains scripts for the analysis of the FDDB haplotype assembly.
 
-SVdetection: Scripts for identifying structural variations (SVs) between the two haplotypes of the FDDB genome.
+# Workflow
+1.  SVdetection: Scripts for identifying structural variations (SVs) between the two haplotypes of the FDDB genome.
 
-gap_filling: Scripts for filling gaps in the FDDB genome using additional assemblies.
+2. gap_filling: Scripts for filling gaps in the FDDB genome using additional assemblies.
 
-reads_phasing: Scripts for generating haplotype-specific k-mers for the FDDB genome.
+3. reads_phasing: Scripts for generating haplotype-specific k-mers for the FDDB genome.
 
-Phasing_by_FDDB_offspring: Scripts for phasing SNPs using FDDB offspring
+4. Phasing_by_FDDB_offspring: Scripts for phasing SNPs using FDDB offspring
 
-QTLmapping_in_halfsib_population: Scripts for QTL detection in FDDB half-sib population
+5. QTLmapping_in_halfsib_population: Scripts for QTL detection in FDDB half-sib population
