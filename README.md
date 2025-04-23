@@ -1,4 +1,4 @@
-#FDhaplotype
+# FDhaplotype
 This repository contains scripts for the analysis of the FDDB haplotype assembly.
 
 SVdetection: Scripts for identifying structural variations (SVs) between the two haplotypes of the FDDB genome.
