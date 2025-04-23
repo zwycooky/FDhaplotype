@@ -7,3 +7,6 @@ gap_filling: Scripts for filling gaps in the FDDB genome using additional assemb
 
 reads_phasing: Scripts for generating haplotype-specific k-mers for the FDDB genome.
 
+Phasing_by_FDDB_offspring: Scripts for phasing SNPs using FDDB offspring
+
+QTLmapping_in_halfsib_population: Scripts for QTL detection in FDDB half-sib population
